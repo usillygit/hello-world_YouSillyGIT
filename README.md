@@ -1,2 +1,3 @@
 # hello-world_YouSillyGIT
-YouSIlly git
+YouSilly git
+write a bit about yourself.
